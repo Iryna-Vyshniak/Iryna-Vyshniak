@@ -1,13 +1,13 @@
 <h1 align="center">Hi, welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"></h1>
 <!--<img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="35" />-->
-<h3 align="center">A simply student-switcher from Kyiv</h3>
+<!--<h3 align="center">A simply student-switcher from Kyiv</h3>-->
 
 <p align="left">
 <!-- About Me -->
 <h3 style = font-size: "20px" align=" left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/technologist.gif" width="32"/>&nbsp <b>About Me</b></h2>
 <p align="left">
 - 👋 Hi, I’m @Iryna-Vyshniak<br>
-- 👀 I’m student-switcher and interested in Programming<br>
+- 👀 I’m a student-switcher and interested in Programming<br>
 - 🌱 I’m currently learning HTML, CSS, SCSS, SASS<br>
 - 👩‍🏫 Love teaching and sharing knowledge<br>
 - 🏞️ Traveling is one of my favorite hobbies.<br>
