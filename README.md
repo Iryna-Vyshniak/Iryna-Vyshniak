@@ -3,7 +3,7 @@
 
 <p align="left">
 <!-- About Me -->
-<h2 style = font-size: "20px" align=" left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/technologist.gif" width="32"/>&nbsp <b>About Me</b></h2>
+<h3 style = font-size: "20px" align=" left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/technologist.gif" width="32"/>&nbsp <b>About Me</b></h2>
 <p align="left">
 - 👋 Hi, I’m @Iryna-Vyshniak<br>
 - 👀 I’m student-switcher and interested in Programming<br>
@@ -15,14 +15,14 @@
 </p>
 
 <!--Projects I am working on -->
-<h2 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/hatching-chick.gif" width="30"/>&nbsp <b>Experience</b></h2>
+<h3 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/hatching-chick.gif" width="30"/>&nbsp <b>Experience</b></h3>
 <p align="left">
 Updating soon..
 </p>
 
 <br>
 <!--Projects I am working on -->
-<h2 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/writing-hand.gif" width="30"/>&nbsp <b>Publicaitons</b></h2>
+<h3 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/writing-hand.gif" width="30"/>&nbsp <b>Publicaitons</b></h3>
 <p align="left">
 Updating soon...
 </p>
@@ -30,7 +30,7 @@ Updating soon...
 <br>
 
 <!--Projects I am working on -->
-<h2 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/fire.gif" width="30"/>&nbsp <b>Projects</b></h2>
+<h3 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/fire.gif" width="30"/>&nbsp <b>Projects</b></h3>
 <p align="left">
 Updating soon...
 </p>
@@ -38,7 +38,7 @@ Updating soon...
 <br>
 
 <!--My Tech Stack -->
-<h2 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/mechanical-arm.gif" width="30"/>&nbsp <b>My Languages and Tools:</b></h2>
+<h3 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/mechanical-arm.gif" width="30"/>&nbsp <b>My Languages and Tools:</b></h3>
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
