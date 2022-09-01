@@ -15,14 +15,14 @@
 - 📫 How to reach me: send email to irinavn2011@gmail.com
 </p>
 
-<!--Projects I am working on -->
+<!--
 <h3 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/hatching-chick.gif" width="30"/>&nbsp <b>Experience</b></h3>
 <p align="left">
 Updating soon..
 </p>
 
 <br>
-<!--Projects I am working on -->
+
 <h3 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/writing-hand.gif" width="30"/>&nbsp <b>Publicaitons</b></h3>
 <p align="left">
 Updating soon...
@@ -30,7 +30,7 @@ Updating soon...
 
 <br>
 
-<!--Projects I am working on -->
+
 <h3 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/fire.gif" width="30"/>&nbsp <b>Projects</b></h3>
 <p align="left">
 Updating soon...
@@ -38,7 +38,7 @@ Updating soon...
 
 <br>
 
-<!--My Tech Stack -->
+-->
 <h3 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/mechanical-arm.gif" width="30"/>&nbsp <b>My Languages and Tools:</b></h3>
 
 <p align="left">
