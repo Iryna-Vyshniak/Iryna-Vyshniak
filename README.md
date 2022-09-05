@@ -10,7 +10,7 @@
 - 👀 I’m a student-switcher and interested in Programming<br>
 - 🌱 I’m currently learning HTML, CSS, SCSS, SASS<br>
 - 👩‍🏫 Love teaching and sharing knowledge<br>
-- 🏞️ Traveling is one of my favorite hobbies.<br>
+- 🏞️ Traveling is one of my favourite hobbies.<br>
 - 💞️  Fletcher is the best friend I have, and guess what? He has four paws 🐾🐾..<br>
 - 📫 How to reach me: send email to irinavn2011@gmail.com
 </p>
