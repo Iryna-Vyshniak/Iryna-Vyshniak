@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/uiC2aVVRnSO7uUgOqD/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="100"/>
 </div>
 <!-- badges for social network -->
 <div id="badges" align="center">
@@ -12,7 +12,7 @@
 </div>
 <!-- views counter -->
 <div id="counter" align="center">
-<img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" alt=""/>
+<img src="<img src="https://komarev.com/ghpvc/?username=Iryna-Vyshniak&style=flat-square&color=blue" alt="counter"/>" alt=""/>
  </div>
 <!-- greeting  -->
 <h1 align="center">
@@ -24,7 +24,7 @@
   <img src="https://media.giphy.com/media/xT8qB2HYA1vVSxooSY/giphy.gif" width="600" height="300"/>
 </div>
 
-### <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/technologist.gif" width="32"/> About Me :
+### About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="30"> from Ukraine.
 
 - :computer: I’m a student-switcher and interested in Programming.
