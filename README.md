@@ -12,7 +12,7 @@
 </div>
 <!-- views counter -->
 <div id="counter" align="center">
-<img src="<img src="https://komarev.com/ghpvc/?username=Iryna-Vyshniak&style=flat-square&color=blue" alt="counter"/>
+<img src="https://komarev.com/ghpvc/?username=Iryna-Vyshniak&style=flat-square&color=blue" alt=""/>
  </div>
 <!-- greeting  -->
 <h1 align="center">
@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYu
 - :open_book: Love teaching and sharing knowledge.
 - :camping: Traveling is one of my favourite hobbies.
 - :hearts:  Fletcher is the best friend I have, and guess what? He has four paws :paw_prints:
-- :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-vyshniak-428b25259)
+- :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-vyshniak-428b25259)
 
 
 
