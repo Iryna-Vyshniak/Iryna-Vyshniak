@@ -1,9 +1,22 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uiC2aVVRnSO7uUgOqD/giphy.gif" width="200"/>
 </div>
-<h1 align="center">Hi, welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"></h1>
-<!--<img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="35" />-->
-<!--<h3 align="center">A simply student-switcher from Kyiv</h3>-->
+<!-- badges for social network -->
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<!-- views counter -->
+<img src="https://komarev.com/ghpvc/?username=Iryna-Vyshniak&style=flat-square&color=blue" alt=""/>
+<h1 align="center">
+  Hi, welcome to my GitHub!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 
 <p align="left">
 <!-- About Me -->
