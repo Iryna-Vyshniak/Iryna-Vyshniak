@@ -11,7 +11,10 @@
   </a>
 </div>
 <!-- views counter -->
-<img src="https://komarev.com/ghpvc/?username=Iryna-Vyshniak&style=flat-square&color=blue" alt="" align="center"/>
+<div id="counter" align="center">
+<img src="https://komarev.com/ghpvc/?username=Iryna-Vyshniak&style=flat-square&color=blue" alt=""/>
+ </div>
+<!-- greeting  -->
 <h1 align="center">
   Hi, welcome to my GitHub!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
