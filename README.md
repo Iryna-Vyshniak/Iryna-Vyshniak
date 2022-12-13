@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/uiC2aVVRnSO7uUgOqD/giphy.gif" width="200"/>
 </div>
 <!-- badges for social network -->
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,7 +11,7 @@
   </a>
 </div>
 <!-- views counter -->
-<img src="https://komarev.com/ghpvc/?username=Iryna-Vyshniak&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Iryna-Vyshniak&style=flat-square&color=blue" alt="" align="center"/>
 <h1 align="center">
   Hi, welcome to my GitHub!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
