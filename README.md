@@ -12,7 +12,7 @@
 </div>
 <!-- views counter -->
 <div id="counter" align="center">
-<img src="<img src="https://komarev.com/ghpvc/?username=Iryna-Vyshniak&style=flat-square&color=blue" alt="counter"/>" alt=""/>
+<img src="<img src="https://komarev.com/ghpvc/?username=Iryna-Vyshniak&style=flat-square&color=blue" alt="counter"/>
  </div>
 <!-- greeting  -->
 <h1 align="center">
@@ -25,8 +25,7 @@
 </div>
 
 ### About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="30"> from Ukraine.
-
+I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="25"> from Ukraine.
 - :computer: I’m a student-switcher and interested in Programming.
 - :seedling: I’m currently learning HTML, CSS, SCSS, SASS.
 - :open_book: Love teaching and sharing knowledge.
