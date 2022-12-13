@@ -30,8 +30,8 @@
 ### About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="25"> from Ukraine.
 - :computer: I’m a student-switcher and interested in Programming.
-- :seedling: I’m currently learning HTML, CSS, SCSS, SASS.
-- :open_book: Love teaching and sharing knowledge.
+- :seedling: I’m currently learning HTML5, CSS3, SCSS, SASS, Bootstrap, JavaScript.  
+- :open_book: Love studing and sharing knowledge.
 - :camping: Traveling is one of my favourite hobbies.
 - :hearts:  Fletcher is the best friend I have, and guess what? He has four paws :paw_prints:
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-vyshniak-428b25259)
@@ -46,11 +46,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYu
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="figma" alt="figma" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="40" height="40"/>&nbsp;&nbsp;
 </div>
 
-<!-- 
+---
+
  ### :hammer_and_wrench: My Goal :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;&nbsp;
@@ -58,7 +59,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYu
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;&nbsp;
 </div>
--->
 
 ---
 
