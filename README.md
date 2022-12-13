@@ -3,16 +3,16 @@
 </div>
 <!-- badges for social network -->
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/iryna-vyshniak-428b25259">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Miss_V_N_?t=0tYAXru8H5eQyYlSbfMvew&s=35">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <!-- views counter -->
 <div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=Iryna-Vyshniak&style=flat-square&color=blue" alt=""/>
+<img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" alt=""/>
  </div>
 <!-- greeting  -->
 <h1 align="center">
@@ -23,43 +23,19 @@
 <div align="center">
   <img src="https://media.giphy.com/media/xT8qB2HYA1vVSxooSY/giphy.gif" width="600" height="300"/>
 </div>
-<p align="left">
-<!-- About Me -->
-<h3 style = font-size: "20px" align=" left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/technologist.gif" width="32"/>&nbsp <b>About Me</b></h2>
-<p align="left">
-- 👋 Hi, I’m @Iryna-Vyshniak<br>
-- 👀 I’m a student-switcher and interested in Programming<br>
-- 🌱 I’m currently learning HTML, CSS, SCSS, SASS<br>
-- 👩‍🏫 Love teaching and sharing knowledge<br>
-- 🏞️ Traveling is one of my favourite hobbies.<br>
-- 💞️  Fletcher is the best friend I have, and guess what? He has four paws 🐾🐾..<br>
-- 📫 How to reach me: send email to irinavn2011@gmail.com
-</p>
 
-<!--
-<h3 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/hatching-chick.gif" width="30"/>&nbsp <b>Experience</b></h3>
-<p align="left">
-Updating soon..
-</p>
+### <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/technologist.gif" width="32"/> About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="30"> from Ukraine.
 
-<br>
-
-<h3 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/writing-hand.gif" width="30"/>&nbsp <b>Publicaitons</b></h3>
-<p align="left">
-Updating soon...
-</p>
-
-<br>
+- :computer: I’m a student-switcher and interested in Programming.
+- :seedling: I’m currently learning HTML, CSS, SCSS, SASS.
+- :open_book: Love teaching and sharing knowledge.
+- :camping: Traveling is one of my favourite hobbies.
+- :hearts:  Fletcher is the best friend I have, and guess what? He has four paws :paw_prints:
+- :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-vyshniak-428b25259)
 
 
-<h3 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/fire.gif" width="30"/>&nbsp <b>Projects</b></h3>
-<p align="left">
-Updating soon...
-</p>
 
-<br>
-
--->
 <h3 style = font-size: "20px"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/mechanical-arm.gif" width="30"/>&nbsp <b>My Languages and Tools:</b></h3>
 
 <p align="left">
