@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/uiC2aVVRnSO7uUgOqD/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/uiC2aVVRnSO7uUgOqD/giphy.gif" width="100"/>
 </div>
 <!-- badges for social network -->
 <div id="badges" align="center">
@@ -19,8 +19,10 @@
   Hi, welcome to my GitHub!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-
+<!-- hero -->
+<div align="center">
+  <img src="https://media.giphy.com/media/xT8qB2HYA1vVSxooSY/giphy.gif" width="600" height="300"/>
+</div>
 <p align="left">
 <!-- About Me -->
 <h3 style = font-size: "20px" align=" left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/technologist.gif" width="32"/>&nbsp <b>About Me</b></h2>
