@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/h4rVmXTEaH160/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/uiC2aVVRnSO7uUgOqD/giphy.gif" width="200"/>
 </div>
 <h1 align="center">Hi, welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"></h1>
 <!--<img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="35" />-->
