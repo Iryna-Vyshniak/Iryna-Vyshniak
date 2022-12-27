@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYu
 - :computer: I’m a student-switcher and interested in Programming.
 - :seedling: I’m currently learning HTML5, CSS3, SCSS, SASS, Bootstrap, JavaScript.  
 - :open_book: Love studing and sharing knowledge.
-- :camping: Traveling is one of my favourite hobbies.
+- :camping: Travelling is one of my favourite hobbies.
 - :hearts:  Fletcher is the best friend I have, and guess what? He has four paws :paw_prints:
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-vyshniak-428b25259)
 
