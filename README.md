@@ -29,12 +29,12 @@
 
 ### About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="25"> from Ukraine.
-:open_book: I’m a student-switcher and interested in Programming.
-:open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, Bootstrap, JavaScript.  
-:open_book: Love studing and sharing knowledge.
-:open_book: Travelling is one of my favourite hobbies.
-:open_book:  Fletcher is the best friend I have, and guess what? He has four paws :paw_prints:
-:email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-vyshniak-428b25259)
+- :open_book: I’m a student-switcher and interested in Programming.
+- :open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, Bootstrap, JavaScript.  
+- :open_book: Love studing and sharing knowledge.
+- :open_book: Travelling is one of my favourite hobbies.
+- :open_book:  Fletcher is the best friend I have, and guess what? He has four paws :paw_prints:
+- :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-vyshniak-428b25259)
 
 ---
 
