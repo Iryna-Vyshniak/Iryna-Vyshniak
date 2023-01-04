@@ -64,7 +64,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYu
 ---
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iryna-Vyshniak&show_icons=true&theme=transparent)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Iryna-Vyshniak&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
