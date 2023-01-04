@@ -29,12 +29,12 @@
 
 ### About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="25"> from Ukraine.
-- :computer: I’m a student-switcher and interested in Programming.
-- :seedling: I’m currently learning HTML5, CSS3, SCSS, SASS, Bootstrap, JavaScript.  
-- :open_book: Love studing and sharing knowledge.
-- :camping: Travelling is one of my favourite hobbies.
-- :hearts:  Fletcher is the best friend I have, and guess what? He has four paws :paw_prints:
-- :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-vyshniak-428b25259)
+:open_book: I’m a student-switcher and interested in Programming.
+:open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, Bootstrap, JavaScript.  
+:open_book: Love studing and sharing knowledge.
+:open_book: Travelling is one of my favourite hobbies.
+:open_book:  Fletcher is the best friend I have, and guess what? He has four paws :paw_prints:
+:email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-vyshniak-428b25259)
 
 ---
 
@@ -64,7 +64,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYu
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Iryna-Vyshniak&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Iryna-Vyshniak&theme=github-light&hide_border=true&mode=weekly&background=FFFFFF00)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
