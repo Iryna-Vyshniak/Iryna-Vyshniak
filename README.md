@@ -76,6 +76,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYu
 
 
 ### Snake eating my contribution graph
-![snake gif](https://github.com/Iryna-Vyshniak/Iryna-Vyshniak/blob/output/github-contribution-grid-snake.gif)
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Iryna-Vyshniak/Iryna-Vyshniak/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Iryna-Vyshniak/Iryna-Vyshniak/output/github-contribution-grid-snake.svg#gh-light-mode-only)
