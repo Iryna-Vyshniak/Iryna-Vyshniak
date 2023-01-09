@@ -70,4 +70,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYu
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
+### Snake eating my contribution graph
+![snake gif](https://github.com/Iryna-Vyshniak/Iryna-Vyshniak/blob/output/github-contribution-grid-snake.gif)
