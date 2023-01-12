@@ -69,12 +69,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYu
  <img height="180em" src="https://streak-stats.demolab.com?user=Iryna-Vyshniak&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Iryna-Vyshniak&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F)](https://git.io/streak-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&layout=compact&langs_count=7&theme=transparent"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&layout=compact&langs_count=7&theme=transparent"/> -->
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-### Snake eating my contribution graph
-![github contribution grid snake animation](https://raw.githubusercontent.com/Iryna-Vyshniak/Iryna-Vyshniak/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Iryna-Vyshniak/Iryna-Vyshniak/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!-- ### Snake eating my contribution graph -->
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/Iryna-Vyshniak/Iryna-Vyshniak/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/Iryna-Vyshniak/Iryna-Vyshniak/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
