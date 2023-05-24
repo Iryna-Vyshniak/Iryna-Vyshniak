@@ -40,15 +40,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYu
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="sass" alt="sass" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="bootstrap" alt="bootstrap" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="figma" alt="figma" width="30" height="30"/>&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="30" height="30"/>&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="30" height="30"/>&nbsp;&nbsp;
 </div>
 
 ---
@@ -56,7 +57,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYu
  ### :hammer_and_wrench: My Goal :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;&nbsp;
 </div>
@@ -72,7 +72,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYu
 <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&layout=compact&langs_count=7&theme=transparent"/> -->
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- ### Snake eating my contribution graph -->
