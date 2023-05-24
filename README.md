@@ -72,6 +72,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYu
 <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&layout=compact&langs_count=7&theme=transparent"/> -->
 </div>
 
+<div align="center">
+<a href="https://u8views.com/github/Iryna-Vyshniak"><img src="https://u8views.com/api/v1/github/profiles/111734415/views/day-week-month-total-count.svg"></a>
+</div>
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
