@@ -28,13 +28,15 @@
 
 <!-- hero -->
 <div align="center">
-<img src="https://media.giphy.com/media/xT8qB2HYA1vVSxooSY/giphy.gif" width="600" height="300"/> 
+<img src="https://ik.imagekit.io/irinavn2011/Empowering_Tomorrow.png?updatedAt=1687883880857" width="600" height="420"/> 
+<!-- <img src="https://media.giphy.com/media/xT8qB2HYA1vVSxooSY/giphy.gif" width="600" height="300"/>  -->
 </div>
 
 ### About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="25"> from Ukraine.
+I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="25"> from Ukraine, Lukhans`k region (now Kyiv) 
 - :open_book: I’m a student-switcher and interested in Programming.
-- :open_book: I’m currently learning HTML5, CSS3, SCSS, SASS, Bootstrap, JavaScript.  
+- :open_book: I’m currently learning React Native, Vite, React, Java Script, HTML5, Tailwind, CSS3, SCSS, SASS.
+- :open_book: if (  <img src="https://ik.imagekit.io/irinavn2011/react-native-logo-768x890.png?updatedAt=1687875595721" title="React Native" alt="React Native" width="20" height="22"/> || <img src="https://ik.imagekit.io/irinavn2011/vite.png?updatedAt=1687900100383" title="Vite" alt="Vite" width="20" height="20"/> || <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/> || <img src="https://ik.imagekit.io/irinavn2011/67109815.png?updatedAt=1687875935356"  title="Tailwind" alt="Tailwind CSS" width="20" height="20"/> ) return ❤️
 - :open_book: Love studing and sharing knowledge.
 - :open_book: Travelling is one of my favourite hobbies.
 - :open_book:  Fletcher is the best friend I have, and guess what? He has four paws :paw_prints:
@@ -45,6 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYu
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://ik.imagekit.io/irinavn2011/react-native-logo-768x890.png?updatedAt=1687875595721" title="React Native" alt="React Native" width="30" height="35"/>&nbsp;&nbsp;
+  <img src="https://ik.imagekit.io/irinavn2011/vite.png?updatedAt=1687900100383" title="Vite" alt="Vite" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;
