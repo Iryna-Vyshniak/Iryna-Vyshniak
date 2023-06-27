@@ -43,31 +43,49 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-vyshniak-428b25259)
 
 ---
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://ik.imagekit.io/irinavn2011/react-native-logo-768x890.png?updatedAt=1687875595721" title="React Native" alt="React Native" width="30" height="35"/>&nbsp;&nbsp;
-  <img src="https://ik.imagekit.io/irinavn2011/vite.png?updatedAt=1687900100383" title="Vite" alt="Vite" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://ik.imagekit.io/irinavn2011/67109815.png?updatedAt=1687875935356"  title="Tailwind" alt="Tailwind CSS" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://ik.imagekit.io/irinavn2011/material-ui.png?updatedAt=1687876106034"  title="Material UI" alt="Material UI" width="30" height="40"/>&nbsp;&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="sass" alt="sass" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="figma" alt="figma" width="30" height="30"/>&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="30" height="30"/>&nbsp;&nbsp;
+<div style="align: left; width: 50%;">
+💻 CORE
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="26" height="26" alt="JavaScript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="26" height="26" alt="Git" /></a>&nbsp;&nbsp;  
 </div>
 
----
 
- ### :hammer_and_wrench: My Goal :
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;&nbsp;
+<div style="align: left; width: 50%;">
+💻 FRONTEND  
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/irinavn2011/react-native-logo-768x890.png?updatedAt=1687875595721" title="React Native" alt="React Native" width="26" height="30"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="26" height="26" alt="React" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="26" height="26" alt="Vite" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="26" height="26" alt="Redux" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="26" height="26" alt="TailwindCSS" /></a>
+<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="26" height="26" alt="Chakra UI" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="26" height="26" alt="Material UI" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="26" height="26" alt="Sass" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="26" height="26" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="26" height="26" alt="HTML5" /></a>
+</div>
+  
+<div style="align: left; width: 50%;">
+💻 BACKEND AND DATABASE  
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="26" height="26" alt="NodeJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="26" height="26" alt="MongoDB" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="26" height="26" alt="Firebase" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="26" height="26" alt="Express" /></a>
+</div>
+
+<div style="align: right; width: 50%;">
+💻 SOFTWARE
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="figma" alt="figma" width="26" height="26"/>&nbsp;&nbsp;
+</div>
+
+<div style="align: left; width: 50%;">
+💻 OTHER
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="30" height="30"/>&nbsp;&nbsp;  
+</div>
+
+
+<div style="align: left; width: 50%;">
+💻 MY GOAL 
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="26" height="26"/>&nbsp;&nbsp;
 </div>
 
 ---
@@ -76,9 +94,13 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 
 <div align="center"> 
  <img height="150em" src="https://streak-stats.demolab.com?user=Iryna-Vyshniak&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Iryna-Vyshniak&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F)](https://git.io/streak-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&layout=compact&langs_count=7&theme=transparent"/> -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Iryna-Vyshniak&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&layout=compact&langs_count=7&theme=transparent"/>  -->
+
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Iryna-Vyshniak&show_icons=true&theme=transparent&title_color=002db0&text_color=2ab000&hide_border=true"/> 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iryna-Vyshniak&show_icons=true&theme=transparent&title_color=002db0&text_color=2db000&hide_border=true)](https://github.com/Iryna-Vyshniak/github-readme-stats)   -->
+
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
