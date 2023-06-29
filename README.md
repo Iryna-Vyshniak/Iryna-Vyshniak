@@ -52,7 +52,7 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 
 <div style="align: left; width: 50%;">
 💻 FRONTEND  
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/irinavn2011/react-native-logo-768x890.png?updatedAt=1687875595721" title="React Native" alt="React Native" width="26" height="30"/></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/irinavn2011/react-native-logo-768x890.png?updatedAt=1687875595721" title="React Native" alt="React Native" width="26" height="30"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="26" height="26" alt="React" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="26" height="26" alt="Vite" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="26" height="26" alt="Redux" /></a>
@@ -66,7 +66,7 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
   
 <div style="align: left; width: 50%;">
 💻 BACKEND AND DATABASE  
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="26" height="26" alt="NodeJS" /></a>
+<a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="26" height="26" alt="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="26" height="26" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="26" height="26" alt="Firebase" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="26" height="26" alt="Express" /></a>
@@ -74,18 +74,21 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 
 <div style="align: right; width: 50%;">
 💻 SOFTWARE
- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="figma" alt="figma" width="26" height="26"/>&nbsp;&nbsp;
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="figma" alt="figma" width="26" height="26"/></a>
 </div>
 
 <div style="align: left; width: 50%;">
 💻 OTHER
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="30" height="30"/>&nbsp;&nbsp;  
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="30" height="30"/></a>
 </div>
 
 
 <div style="align: left; width: 50%;">
 💻 MY GOAL 
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="26" height="26"/>&nbsp;&nbsp;
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="26" height="26"/></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="26" height="26" alt="Vue" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="26" height="26" alt="TypeScript" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="26" height="26" alt="NextJs" /></a>
 </div>
 
 ---
