@@ -97,12 +97,21 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 
 <div align="center"> 
  <img height="150em" src="https://streak-stats.demolab.com?user=Iryna-Vyshniak&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Iryna-Vyshniak&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F)](https://git.io/streak-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&layout=compact&langs_count=7&theme=transparent"/>  -->
 
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Iryna-Vyshniak&show_icons=true&theme=transparent&title_color=002db0&text_color=2ab000&hide_border=true"/> 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iryna-Vyshniak&show_icons=true&theme=transparent&title_color=002db0&text_color=2db000&hide_border=true)](https://github.com/Iryna-Vyshniak/github-readme-stats)   -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Iryna-Vyshniak&show_icons=true&theme=dark&theme=transparent&hide_border=true&title_color=002db0&text_color=2ab000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Iryna-Vyshniak&show_icons=true&theme=transparent&hide_border=true&title_color=002db0&text_color=2ab000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iryna-Vyshniak&show_icons=true&theme=transparent&hide_border=true&title_color=002db0&text_color=2ab000" />
+</picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&layout=compact&theme=transparent&hide_border=true)
+<!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Iryna-Vyshniak)](https://github.com/Iryna-Vyshniak/github-readme-stats) -->
 
 </div>
 
