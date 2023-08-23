@@ -95,10 +95,10 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 
 ### :fire: My Stats :
 
-<div align="center"> 
+<div align="center" display="flex" flex-wrap="wrap"> 
  <img height="150em" src="https://streak-stats.demolab.com?user=Iryna-Vyshniak&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
 
-<picture>
+<picture height="150em" width="150em">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Iryna-Vyshniak&show_icons=true&theme=dark&theme=transparent&hide_border=true&title_color=002db0&text_color=2ab000"
     media="(prefers-color-scheme: dark)"
@@ -112,7 +112,6 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Vyshniak&layout=compact&theme=transparent&hide_border=true)
 <!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Iryna-Vyshniak)](https://github.com/Iryna-Vyshniak/github-readme-stats) -->
-
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
