@@ -56,12 +56,20 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="26" height="26" alt="React" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="26" height="26" alt="Vite" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="26" height="26" alt="Redux" /></a>
+<a href="https://axios-http.com/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/irinavn2011/logo.svg?updatedAt=1692603887708" width="46" height="26"  alt="Axios" /></a>
+<a href="https://formik.org/" target="_blank" rel="noreferrer"><img src="https://www.kindacode.com/wp-content/uploads/2021/01/formik-300x259.png" width="26" height="26" alt="formik"/></a>
+<a href="https://date-fns.org/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/irinavn2011/7ceafe855b131d457fe7de810ed31e0f.svg?updatedAt=1692604286354" width="26" height="26" alt="date-fns"/></a>
+<a href="https://swiperjs.com/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/irinavn2011/swiper-logo.svg?updatedAt=1692603887640" width="26" height="26" alt="Swiper" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="26" height="26" alt="TailwindCSS" /></a>
 <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="26" height="26" alt="Chakra UI" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="26" height="26" alt="Material UI" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="26" height="26" alt="Sass" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="26" height="26" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="26" height="26" alt="HTML5" /></a>
+  
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=FFF)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=FFF)
+
 </div>
   
 <div style="align: left; width: 50%;">
@@ -70,6 +78,11 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="26" height="26" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="26" height="26" alt="Firebase" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="26" height="26" alt="Express" /></a>
+<a href="https://render.com/" target="_blank" rel="noreferrer" style="color: #22b5bf; font-family: Roboto Mono,Consolas,Liberation Mono,Courier New,Courier,monospace;
+    font-size: 18px;
+    font-weight: 300;">
+render
+</a>
 </div>
 
 <div style="align: right; width: 50%;">
@@ -114,7 +127,8 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 <!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Iryna-Vyshniak)](https://github.com/Iryna-Vyshniak/github-readme-stats) -->
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&color=2ab000&line=2eb830&point=05ff22&area=true&hide_border=true&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
 <!-- ### Snake eating my contribution graph -->
