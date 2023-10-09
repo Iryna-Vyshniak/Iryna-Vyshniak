@@ -106,7 +106,7 @@ render
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats :  ![Codewars](https://www.codewars.com/users/Iryna-Vyshniak/badges/small)
 
 <div align="center" display="flex" flex-wrap="wrap"> 
  <img height="150em" src="https://streak-stats.demolab.com?user=Iryna-Vyshniak&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
