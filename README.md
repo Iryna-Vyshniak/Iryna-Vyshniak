@@ -26,12 +26,12 @@
 
 ---
 
-<!-- hero -->
 <div align="center">
-<img src="https://ik.imagekit.io/irinavn2011/Empowering_Tomorrow.png?updatedAt=1687883880857" width="600" height="420"/> 
+<img src="https://ik.imagekit.io/lfg3p2t8y/Silent%20brings%20an%20idea%20to%20become%20a%20great%20power.png?updatedAt=1697403488651" width="1920" height="auto"/> 
 <!-- <img src="https://media.giphy.com/media/xT8qB2HYA1vVSxooSY/giphy.gif" width="600" height="300"/>  -->
 </div>
 
+<!-- hero -->
 ### About Me :
 I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="25"> from Ukraine, Lukhans`k region (now Kyiv) 
 - :open_book: I’m a student-switcher and interested in Programming.
@@ -43,6 +43,7 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-vyshniak-428b25259)
 
 ---
+
 <div style="align: left; width: 50%;">
 💻 CORE
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="26" height="26" alt="JavaScript" /></a>
@@ -129,7 +130,9 @@ render
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-
+  <p text-align="center">
+  <img align="center" src="https://github-profile-trophy-arasgungore.vercel.app/?username=Iryna-Vyshniak&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?" alt="Iryna-Vyshniak" />
+  </p>
 
 <!-- ### Snake eating my contribution graph -->
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/Iryna-Vyshniak/Iryna-Vyshniak/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
