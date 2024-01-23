@@ -55,7 +55,7 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 💻 TERMINAL
 
 [![GIT Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Bash Badge](https://img.shields.io/badge/BUSH-E44C30?style=for-the-badge&logo=bash&logoColor=white)](#)
+[![Bash Badge](https://img.shields.io/badge/BASH-E44C30?style=for-the-badge&logo=bash&logoColor=white)](#)
 [![Powershell Badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](#)
 </div>
 
