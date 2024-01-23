@@ -136,6 +136,7 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 <div style="align: left; width: 50%;">
 💻 EDUCATION
 
+[![Freecodecamp Badge](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](#)
 [![UDEMY Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](#)
 [![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](#)
 
