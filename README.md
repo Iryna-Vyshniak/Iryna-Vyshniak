@@ -10,6 +10,13 @@
   <a href="https://twitter.com/Miss_V_N_?t=0tYAXru8H5eQyYlSbfMvew&s=35">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.instagram.com/code_da_vinci.jsx/">
+    <img src="https://img.shields.io/badge/-@code_da_vinci.jsx-e84393?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:iryna.vyshniak@gmail.com">
+    <img src="https://img.shields.io/badge/-Iryna_VN-c0392b?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+  </a>
+
 </div>
 <!-- views counter -->
 <div align="center">
@@ -45,71 +52,117 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 ---
 
 <div style="align: left; width: 50%;">
-💻 CORE
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="26" height="26" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="26" height="26" alt="Git" /></a>&nbsp;&nbsp;  
+💻 TERMINAL
+
+[![GIT Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Bash Badge](https://img.shields.io/badge/BUSH-E44C30?style=for-the-badge&logo=bash&logoColor=white)](#)
 </div>
 
 
 <div style="align: left; width: 50%;">
 💻 FRONTEND  
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/irinavn2011/react-native-logo-768x890.png?updatedAt=1687875595721" title="React Native" alt="React Native" width="26" height="30"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="26" height="26" alt="React" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="26" height="26" alt="Vite" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="26" height="26" alt="Redux" /></a>
-<a href="https://axios-http.com/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/irinavn2011/logo.svg?updatedAt=1692603887708" width="46" height="26"  alt="Axios" /></a>
-<a href="https://formik.org/" target="_blank" rel="noreferrer"><img src="https://www.kindacode.com/wp-content/uploads/2021/01/formik-300x259.png" width="26" height="26" alt="formik"/></a>
-<a href="https://date-fns.org/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/irinavn2011/7ceafe855b131d457fe7de810ed31e0f.svg?updatedAt=1692604286354" width="26" height="26" alt="date-fns"/></a>
-<a href="https://swiperjs.com/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/irinavn2011/swiper-logo.svg?updatedAt=1692603887640" width="26" height="26" alt="Swiper" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="26" height="26" alt="TailwindCSS" /></a>
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="26" height="26" alt="Chakra UI" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="26" height="26" alt="Material UI" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="26" height="26" alt="Sass" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="26" height="26" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="26" height="26" alt="HTML5" /></a>
-  
-![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=FFF)
-![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=FFF)
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="26" height="26" alt="NextJs" /> ![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next&logoColor=fff) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Vite Badge](https://img.shields.io/badge/-Vite-593D88?style=for-the-badge&labelColor=black&logo=vite&logoColor=61DBFB)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-380953?style=for-the-badge&logo=axios&logoColor=white)
+[![Clerk-auth Badge](https://img.shields.io/badge/Clerk--auth-0081CB?style=for-the-badge&logo=clerk-auth&logoColor=white)](#) 
+![Uploadthing](https://img.shields.io/badge/Uploadthing-380953?style=for-the-badge&logo=uploadthing&logoColor=white)
+![Formik](https://img.shields.io/badge/Formik-0056D2?style=for-the-badge&logo=formik&logoColor=white)
+![Date-fns](https://img.shields.io/badge/Date-fns-0056D2?style=for-the-badge&logo=date-fns&logoColor=white)
+![React-datepicker](https://img.shields.io/badge/React-datepicker-0056D2?style=for-the-badge&logo=react-datepicker&logoColor=white)
+![swiper](https://img.shields.io/badge/Swiper-0056D2?style=for-the-badge&logo=swiper&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=FFF)
+
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#) 
+[![SHADCN-UI Badge](https://img.shields.io/badge/Shadcn--UI-0081CB?style=for-the-badge&logo=shadcn-ui&logoColor=white)](#) 
+[![CHAKRA-UI Badge](https://img.shields.io/badge/chakra-colored.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)](#) 
+[![MUI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=materialui-colored.svg&logoColor=white)](#) 
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=FFF)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) 
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) 
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
+
 
 </div>
   
 <div style="align: left; width: 50%;">
 💻 BACKEND AND DATABASE  
-<a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="26" height="26" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="26" height="26" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="26" height="26" alt="Firebase" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="26" height="26" alt="Express" /></a>
-<a href="https://render.com/" target="_blank" rel="noreferrer" style="color: #22b5bf; font-family: Roboto Mono,Consolas,Liberation Mono,Courier New,Courier,monospace;
-    font-size: 18px;
-    font-weight: 300;">
-render
-</a>
-</div>
-
-<div style="align: right; width: 50%;">
-💻 SOFTWARE
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="figma" alt="figma" width="26" height="26"/></a>
+  
+  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+  [![Expressjs Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#)
+  [![Mongodb Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+  [![Mongoose Badge](https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white)](#)
+  [![Atlas Badge](https://img.shields.io/badge/Atlas-018bff?style=for-the-badge&logo=atlas&logoColor=white)](#)
+  [![Firebase Badge](https://img.shields.io/badge/firebase-%23FF6600.svg?&style=for-the-badge&logo=firebase&logoColor=white)](#)
+  
 </div>
 
 <div style="align: left; width: 50%;">
+💻 MOBILE FRAMEWORKS
+
+[![React_Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+</div>
+
+<div style="align: left; width: 50%;">
+💻 LINTERS
+
+[![ESLINT Badge](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)](#)
+[![Prettier Badge](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)](#)
+</div>
+
+
+<div style="align: right; width: 50%;">
+💻 CLOUD
+
+[![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
+[![Render Badge](https://img.shields.io/badge/Render-F38020?style=for-the-badge&logo=render&logoColor=white)](#)
+
+</div>
+<div style="align: right; width: 50%;">
+💻 SOFTWARE
+
+[![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+
+</div>
+
+<div style="align: left; width: 50%;">
+💻 EDUCATION
+
+[![UDEMY Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](#)</div>
+
+
+<div style="align: left; width: 50%;">
 💻 OTHER
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="30" height="30"/></a>
+
+[![VisualStudio Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
+[![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](#)
+
 </div>
 
 
 <div style="align: left; width: 50%;">
 💻 MY GOAL 
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="26" height="26"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="26" height="26" alt="Vue" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="26" height="26" alt="TypeScript" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="26" height="26" alt="NextJs" /></a>
+  
+ [![Expressjs Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
+ [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
+
 </div>
 
 ---
 
-### :fire: My Stats :  ![Codewars](https://www.codewars.com/users/Iryna-Vyshniak/badges/small)
+### :fire: My Stats : <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars"/> ![Codewars](https://www.codewars.com/users/Iryna-Vyshniak/badges/small)
 
 <div align="center" display="flex" flex-wrap="wrap"> 
+
+
+
  <img height="150em" src="https://streak-stats.demolab.com?user=Iryna-Vyshniak&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
 
 <picture height="150em" width="150em">
