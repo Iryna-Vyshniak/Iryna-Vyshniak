@@ -83,7 +83,7 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#) 
 [![SHADCN-UI Badge](https://img.shields.io/badge/Shadcn--UI-0081CB?style=for-the-badge&logo=shadcn-ui&logoColor=white)](#) 
 [![CHAKRA-UI Badge](https://img.shields.io/badge/chakra-colored.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)](#) 
-[![MUI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=materialui-colored.svg&logoColor=white)](#) 
+![MUI](https://img.shields.io/badge/-MUI-purple?style=for-the-badge&logo=MUI&logoColor=fff)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=FFF)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) 
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) 
