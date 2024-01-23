@@ -56,13 +56,14 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 
 [![GIT Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Bash Badge](https://img.shields.io/badge/BUSH-E44C30?style=for-the-badge&logo=bash&logoColor=white)](#)
+[![Powershell Badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](#)
 </div>
 
 
 <div style="align: left; width: 50%;">
 💻 FRONTEND  
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="26" height="26" alt="NextJs" /> ![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next&logoColor=fff) 
+[![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Vite Badge](https://img.shields.io/badge/-Vite-593D88?style=for-the-badge&labelColor=black&logo=vite&logoColor=61DBFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
@@ -91,7 +92,7 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 
 </div>
   
-<div style="align: left; width: 50%;">
+<div style="align: left; width: 100%;">
 💻 BACKEND AND DATABASE  
   
   [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
@@ -135,14 +136,22 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 <div style="align: left; width: 50%;">
 💻 EDUCATION
 
-[![UDEMY Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](#)</div>
+[![UDEMY Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](#)
+[![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](#)
+
+</div>
 
 
 <div style="align: left; width: 50%;">
 💻 OTHER
 
+[![Docker Badge](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+[![Swagger Badge](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)](#)
 [![VisualStudio Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 [![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](#)
+[![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](#)
+[![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](#)
 
 </div>
 
