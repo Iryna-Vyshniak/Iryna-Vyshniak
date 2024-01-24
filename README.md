@@ -167,6 +167,13 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 
 ---
 
+<div align="center">
+<img src="https://ik.imagekit.io/irinavn2011/github-wrapped.png?updatedAt=1706124962255" width="auto" height="auto"/> 
+
+</div>
+
+---
+
 ### :fire: My Stats : <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars"/> ![Codewars](https://www.codewars.com/users/Iryna-Vyshniak/badges/small)
 
 <div align="center" display="flex" flex-wrap="wrap"> 
