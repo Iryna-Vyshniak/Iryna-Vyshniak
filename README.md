@@ -165,12 +165,12 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 
 </div>
 
----
 
-<div align="center">
+
+<!-- <div align="center">
 <img src="https://ik.imagekit.io/irinavn2011/github-wrapped.png?updatedAt=1706124962255" width="auto" height="auto"/> 
 
-</div>
+</div> --> 
 
 ---
 
