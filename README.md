@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/iryna-vyshniak-428b25259">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Miss_V_N_?t=0tYAXru8H5eQyYlSbfMvew&s=35">
+  <a href="https://twitter.com/YarynaVN">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.instagram.com/code_da_vinci.jsx/">
