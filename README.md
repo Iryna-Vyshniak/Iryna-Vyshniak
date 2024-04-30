@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.instagram.com/code_da_vinci.jsx/">
-    <img src="https://img.shields.io/badge/-@code_da_vinci.jsx-e84393?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/-@code_da_vinci-e84393?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="mailto:iryna.vyshniak@gmail.com">
     <img src="https://img.shields.io/badge/-Iryna_VN-c0392b?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
