@@ -140,7 +140,6 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
       <img src="https://img.shields.io/badge/Next-blue" /> 
       <img src="https://img.shields.io/badge/Tailwind-blue" />
       <img src="https://img.shields.io/badge/MUI-blue" /> 
-      <img src="https://img.shields.io/badge/Chart.js-blue" />
       <img src="https://img.shields.io/badge/Shadcn-blue" />
       <img src="https://img.shields.io/badge/Chakra-blue" />
     </td>      
