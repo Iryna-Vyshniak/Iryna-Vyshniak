@@ -96,7 +96,7 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 <table>
   <tr>
     <td valign="center" width="200px"><b>Language<b></td>
-    <td valign="center" width="200px"><b>Sepcial<b></td>
+    <td valign="center" width="200px"><b>Special<b></td>
   </tr>
   <tr>
     <td valign="center" align="center" width="300px">
