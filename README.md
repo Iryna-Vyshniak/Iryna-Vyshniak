@@ -41,7 +41,54 @@
 
 <!-- hero -->
 ### About Me :
-I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="25"> from Ukraine, Lukhans`k region (now Kyiv) 
+
+```json
+{
+  "name": "Iryna V-N",
+  "title": "Future Full Stack Developer",
+  "origin": {
+    "country": "Ukraine",
+    "region": "Luhansk (temporarily occupied, now relocated to Kyiv)"
+  },
+  "status": "openToWork",
+  "techStack": ["Ionic", "Next.js", "React", "React Native", "TypeScript"],
+  "skills": {
+    "favorite": ["React", "shadcn/ui", "Tailwind CSS", "Framer Motion"],
+    "learning": ["React Native", "Ionic", "Next.js"]
+  },
+  "bio": [
+    "Programming is my passion and a central part of my life.",
+    "I believe in lifelong learning and sharing knowledge.",
+    "Travelling inspires me to explore new horizons.",
+    "Fletcher (🐾) is my loyal friend and constant companion."
+  ],
+  "future": {
+    "goals": ["Flutter", "Vue.js"],
+    "description": "bright and full of possibilities"
+  },
+  "contact": {
+    "email": "iryna.vyshniak@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/iryna-vyshniak",
+    "github": "https://github.com/Iryna-Vyshniak"
+  },
+  "achievements": [
+    {
+      "title": "GitHub Contributions",
+      "details": "1.8k contributions in 2024"
+    },
+    {
+      "title": "Public Repositories",
+      "details": "90 repositories shared on GitHub"
+    },
+    {
+      "title": "Languages Mastered",
+      "details": ["JavaScript", "TypeScript", "HTML", "CSS"]
+    }
+  ]
+}
+```
+
+<!-- I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="25"> from Ukraine, Lukhans`k region (now Kyiv) 
 - :open_book: Programming is my passion and a central part of my life. 
 - :open_book: I’m currently learning React Native, Ionic, Next14, Typescript.
 - :open_book: if (  <img src="https://ik.imagekit.io/irinavn2011/react-native-logo-768x890.png?updatedAt=1687875595721" title="React Native" alt="React Native" width="20" height="22"/> || <img src="https://ik.imagekit.io/irinavn2011/vite.png?updatedAt=1687900100383" title="Vite" alt="Vite" width="20" height="20"/> || <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/> || <img src="https://ik.imagekit.io/irinavn2011/67109815.png?updatedAt=1687875935356"  title="Tailwind" alt="Tailwind CSS" width="20" height="20"/> ) return ❤️
@@ -50,7 +97,9 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 - :open_book:  Fletcher is the best friend I have, and guess what? He has four paws :paw_prints:
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-vyshniak-428b25259)
 
----
+-->
+
+<!--
 
 <h3 align="center">🏆 Github Profile Trophy</h3>
 
@@ -75,7 +124,7 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/GVdqi
 
 
 
----
+-->
 
 <h3 align="center">Tech & Tools</h3>
 
