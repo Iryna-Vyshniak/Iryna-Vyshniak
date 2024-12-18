@@ -10,18 +10,17 @@
 <!-- badges for social network -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/iryna-vyshniak-428b25259">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-blue?style=plastic&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/YarynaVN">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/-black?style=plastic&logo=x&labelColor=black" alt="X Badge"/>
   </a>
   <a href="https://www.instagram.com/code_da_vinci.js/">
-    <img src="https://img.shields.io/badge/-@code_da_vinci-e84393?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/-e84393?style=plastic&logo=instagram&labelColor=e84393" alt="Instagram Badge"/>
   </a>
   <a href="mailto:iryna.vyshniak@gmail.com">
-    <img src="https://img.shields.io/badge/-Iryna_VN-c0392b?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+    <img src="https://img.shields.io/badge/-c0392b?style=plastic&logo=gmail&labelColor=c0392b" alt="Mail Badge"/>
   </a>
-
 </div>
 <!-- views counter -->
 <div align="center">
