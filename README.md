@@ -53,7 +53,7 @@
   "techStack": ["Ionic", "Next.js", "React", "React Native", "TypeScript"],
   "skills": {
     "favorite": ["React", "shadcn/ui", "Tailwind CSS", "Framer Motion"],
-    "learning": ["React Native", "Ionic", "Next.js"]
+    "learning": ["React Native", "Ionic", "Next.js", "Angular"]
   },
   "bio": [
     "Programming is my passion and a central part of my life.",
@@ -62,7 +62,7 @@
     "Fletcher (🐾) is my loyal friend and constant companion."
   ],
   "future": {
-    "goals": ["Flutter", "Vue.js"],
+    "goals": ["Angular", "Flutter", "Vue.js"],
     "description": "bright and full of possibilities"
   },
   "contact": {
@@ -77,11 +77,11 @@
     },
     {
       "title": "Public Repositories",
-      "details": "90 repositories shared on GitHub"
+      "details": "92 repositories shared on GitHub"
     },
     {
       "title": "Languages Mastered",
-      "details": ["JavaScript", "TypeScript", "HTML", "CSS"]
+      "details": ["JavaScript", "TypeScript"]
     }
   ]
 }
