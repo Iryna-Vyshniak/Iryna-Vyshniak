@@ -250,8 +250,8 @@
 <!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Iryna-Vyshniak)](https://github.com/Iryna-Vyshniak/github-readme-stats) -->
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=transparent&color=05ff22&line=2eb830&point=bef264&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=transparent&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 ### ✍️ Random Dev Quote
 
@@ -263,7 +263,8 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Iryna-Vyshniak&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Iryna-Vyshniak&limit=5&theme=merko&combine_all_yearly_contributions=true&bg_color=transparent)
+
 
 
 
