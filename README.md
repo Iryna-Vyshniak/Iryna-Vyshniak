@@ -252,9 +252,20 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-<!--  <p text-align="center">
-  <img align="center" src="https://github-profile-trophy-arasgungore.vercel.app/?username=Iryna-Vyshniak&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?" alt="Iryna-Vyshniak" />
-  </p> -->
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
+
+![](https://github-profile-trophy.vercel.app/?username=Iryna-Vyshniak&theme=merko&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Iryna-Vyshniak&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+
+
 
 <!-- ### Snake eating my contribution graph -->
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/Iryna-Vyshniak/Iryna-Vyshniak/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
