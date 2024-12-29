@@ -50,7 +50,6 @@
     "region": "Luhansk (temporarily occupied, now relocated to Kyiv)"
   },
   "status": "openToWork",
-  "techStack": ["Ionic", "Next.js", "React", "React Native", "TypeScript"],
   "skills": {
     "favorite": ["React", "shadcn/ui", "Tailwind CSS", "Framer Motion"],
     "learning": ["React Native", "Ionic", "Next.js", "Angular"]
@@ -65,25 +64,6 @@
     "goals": ["Angular", "Flutter", "Vue.js"],
     "description": "bright and full of possibilities"
   },
-  "contact": {
-    "email": "iryna.vyshniak@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/iryna-vyshniak",
-    "github": "https://github.com/Iryna-Vyshniak"
-  },
-  "achievements": [
-    {
-      "title": "GitHub Contributions",
-      "details": "1.8k contributions in 2024"
-    },
-    {
-      "title": "Public Repositories",
-      "details": "92 repositories shared on GitHub"
-    },
-    {
-      "title": "Languages Mastered",
-      "details": ["JavaScript", "TypeScript"]
-    }
-  ]
 }
 ```
 
