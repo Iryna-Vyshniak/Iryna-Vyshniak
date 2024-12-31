@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20enthusiastic%20and%20Results-driven%20Front%20End%20Developer;%2B1%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer%20|%20Learning%20Mobile%20Development;%2B1%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
 </p>
 
 <!-- badges for social network -->
