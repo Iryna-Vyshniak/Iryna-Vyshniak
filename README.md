@@ -10,7 +10,7 @@
 <!-- badges for social network -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/iryna-vyshniak-428b25259">
-    <img src="https://img.shields.io/badge/-blue?style=plastic&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/YarynaVN">
     <img src="https://img.shields.io/badge/-black?style=plastic&logo=x&labelColor=black" alt="X Badge"/>
@@ -255,15 +255,15 @@
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=graywhite&animation=grow_out_in&layout=default&font=Gabrielle&quoteType=quote-for-the-day&bgColor=beige&fontColor=black&borderColor=beige)
 
 <p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=Iryna-Vyshniak&theme=merko&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Iryna-Vyshniak&limit=5&theme=merko&combine_all_yearly_contributions=true&bg_color=transparent)
+![](https://github-contributor-stats.vercel.app/api?username=Iryna-Vyshniak&limit=5&theme=merko&combine_all_yearly_contributions=true&bg_color=transparent)-->
 
 
 
