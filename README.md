@@ -15,7 +15,7 @@
   <a href="https://twitter.com/YarynaVN">
     <img src="https://img.shields.io/badge/-black?style=plastic&logo=x&labelColor=black" alt="X Badge"/>
   </a>
-  <a href="https://www.instagram.com/code_da_vinci.js/">
+  <a href="https://www.instagram.com/arteincode/">
     <img src="https://img.shields.io/badge/-e84393?style=plastic&logo=instagram&labelColor=e84393" alt="Instagram Badge"/>
   </a>
   <a href="mailto:iryna.vyshniak@gmail.com">
