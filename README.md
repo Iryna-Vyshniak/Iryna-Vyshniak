@@ -46,8 +46,7 @@
   "name": "Iryna V-N",
   "title": "Future Full Stack Developer",
   "origin": {
-    "country": "Ukraine",
-    "region": "Luhansk (temporarily occupied, now relocated to Kyiv)"
+    "country": "🫶 603,628 km²",
   },
   "status": "openToWork",
   "skills": {
