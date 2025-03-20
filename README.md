@@ -252,13 +252,13 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=transparent&color=05ff22&line=2eb830&point=bef264&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iryna-Vyshniak&bg_color=transparent&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
-### ✍️ Random Dev Quote
+<!--### ✍️ Random Dev Quote-->
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=graywhite&animation=grow_out_in&layout=default&font=Gabrielle&quoteType=quote-for-the-day&bgColor=beige&fontColor=black&borderColor=beige)
+<!--![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=graywhite&animation=grow_out_in&layout=default&font=Gabrielle&quoteType=quote-for-the-day&bgColor=beige&fontColor=black&borderColor=beige)-->
 
-<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
+<!--<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>-->
 
-![](https://github-profile-trophy.vercel.app/?username=Iryna-Vyshniak&theme=merko&no-frame=true&no-bg=true&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=Iryna-Vyshniak&theme=merko&no-frame=true&no-bg=true&margin-w=4) -->
 
 <!--### 🔝 Top Contributed Repo
 
